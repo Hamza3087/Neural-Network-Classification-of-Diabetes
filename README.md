@@ -1,4 +1,4 @@
-#🧠 Neural-Network-Classification-of-Diabetes
+# Neural-Network-Classification-of-Diabetes
 
 This project implements a Neural Network (Multilayer Perceptron, MLP) for binary classification of diabetes using the Pima Indians Diabetes Dataset from Kaggle. The model undergoes preprocessing, training, evaluation, hyperparameter tuning, and feature importance analysis.
 
